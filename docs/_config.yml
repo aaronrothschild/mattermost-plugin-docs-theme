@@ -4,8 +4,8 @@
 remote_theme: LeakyAbstractions/pretty-docs
 url: https://aaronrothschild.github.io
 baseurl: /pretty-docs
-title: &site_title Pretty Docs
-description: &site_description Free Bootstrap theme for your project documentation
+title: &site_title Mattermost jira plugin
+description: &site_description Integrate Mattermost with your jira workflow
 branding:
   icon:
     name: icon_documents_alt
@@ -27,8 +27,8 @@ kramdown:
 # Owner
 #
 owner:
-  name: Guillermo Calvo
-  twitter: &site_owner_twitter gcalvo
+  name: Aaron Rothschild
+  twitter: &site_owner_twitter mattermost
   copyright:
     notice: Lorem Ipsum
     author: "[Guillermo Calvo](https://guillermo.in/)"
